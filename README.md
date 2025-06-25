@@ -1,6 +1,6 @@
-# Falcon API UI
+# Vyzen API
 
-A modern, clean, and user-friendly interface for browsing and testing Falcon API endpoints.
+A modern, clean, and user-friendly interface for browsing and testing Vyzen API endpoints.
 
 ![Falcon API UI Screenshot](image.png)
 
@@ -38,7 +38,7 @@ All API endpoints and categories are configured in the `settings.json` file. The
 
 ```json
 {
-  "name": "Falcon-Api",
+  "name": "Vyzen-Api",
   "version": "v1.2",
   "description": "Simple and easy to use API.",
   "bannerImage": "/src/banner.jpg",
@@ -46,8 +46,8 @@ All API endpoints and categories are configured in the `settings.json` file. The
     "status": "Online!"
   },
   "apiSettings": {
-    "creator": "FlowFalcon", 
-    "apikey": ["falcon-api"]
+    "creator": "VyzenHere", 
+    "apikey": ["vyzen-api"]
   },
   "categories": [
     {
@@ -142,4 +142,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Created with ❤️ by [FlowFalcon](https://github.com/FlowFalcon)
+Created with ❤️ by [FlowFalcon](https://github.com/vyzenhere)
