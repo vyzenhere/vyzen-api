@@ -30,7 +30,7 @@
           "status": "ready",
           "params": {
             "text": "Teks atau perintah untuk chat AI",
-            "model": "1See the list of supported AI models here: https://mind.hydrooo.web.id"
+            "model": "Lihat daftar model AI di https://mind.hydrooo.web.id"
           }
         },
         {
@@ -70,15 +70,16 @@
       ]
     },
     {
-      "name": "sticker",
+      "name": "Brat Generator (Live)",
       "items": [
         {
           "name": "Brat Generator",
-          "desc": "Scrape konten dari https://bratgenerator.net/id",
-          "path": "/sticker/brat?apikey=",
+          "desc": "Generate sampul Brat otomatis dari teks input",
+          "path": "/sticker/bratgen?apikey=&text=",
           "status": "ready",
           "params": {
-            "apikey": "API key yang valid untuk akses endpoint ini"
+            "apikey": "API key yang valid untuk akses endpoint ini",
+            "text": "Teks yang ingin dijadikan cover Brat"
           }
         }
       ]
