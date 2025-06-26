@@ -70,12 +70,12 @@
       ]
     },
     {
-      "name": "Brat Generator (Live)",
+      "name": "Brat",
       "items": [
         {
-          "name": "Brat Generator",
+          "name": "Brat",
           "desc": "Generate sampul Brat otomatis dari teks input",
-          "path": "/sticker/bratgen?apikey=&text=",
+          "path": "/sticker/brat?apikey=&text=",
           "status": "ready",
           "params": {
             "apikey": "API key yang valid untuk akses endpoint ini",
