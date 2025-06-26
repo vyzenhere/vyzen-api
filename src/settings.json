@@ -71,17 +71,7 @@
     },
     {
       "name": "sticker",
-      "items": [
-        {
-          "name": "Brat Generator",
-          "desc": "Scrape konten dari https://bratgenerator.net/id",
-          "path": "/sticker/brat?apikey=",
-          "status": "ready",
-          "params": {
-            "apikey": "API key yang valid untuk akses endpoint ini"
-          }
-        }
-      ]
+      "items": []
     }
   ]
 }
